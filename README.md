@@ -6,11 +6,11 @@ A single-file, client-side web app for building and polishing resumes tailored t
 
 **Build tab** — structured resume form:
 
-![Build tab](Screenshots/build-tab.png)
+![Build tab](build-tab.png)
 
 **Preview tab** — print-ready resume output:
 
-![Preview tab](Screenshots/preview-tab.png)
+![Preview tab](preview-tab.png)
 
 ## Features
 
