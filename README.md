@@ -10,7 +10,7 @@ Build professional cybersecurity resumes with AI-powered analysis, ATS optimizat
 
 🌐 **Try CyberResume Online**
 
-**https://your-live-demo-url.com**
+**https://preferred-harlequin-qovpsqix.edgeone.dev/**
 
 > Replace the link above with your GitHub Pages, Vercel, or Netlify deployment URL.
 
